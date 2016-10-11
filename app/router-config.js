@@ -5,7 +5,7 @@ export const routerMap = {
       	}
 	},
 
-	'component': {
+	'/vueComponent': {
 		component: function (resolve) {
         	require(['./components/vueContent.vue'], resolve);
       	},

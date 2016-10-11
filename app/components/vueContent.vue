@@ -36,10 +36,10 @@ export default {
 	          {key: '2', title: '安装'},
 	          {key: '3', title: '更新日志'},
 	          {key: '4', title: '组件', children: ['5', '6', '7', '8'], link: '/components.html'},
-	          {key: '5', content: '导航/菜单', link:'/vueComponent/component/menu'},
-	          {key: '6', content: '表格', link: '/vueComponent/component/table'},
-	          {key: '7', content: '按钮', link: '/vueComponent/component/button'},
-	          {key: '8', content: '加载中', link: '/vueComponent/component/spin'}
+	          {key: '5', content: '导航/菜单', link:'/vueComponent/menu'},
+	          {key: '6', content: '表格', link: '/vueComponent/table'},
+	          {key: '7', content: '按钮', link: '/vueComponent/button'},
+	          {key: '8', content: '加载中', link: '/vueComponent/spin'}
         	],
 		}
 	},
