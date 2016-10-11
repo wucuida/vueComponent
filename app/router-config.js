@@ -5,7 +5,7 @@ export const routerMap = {
       	}
 	},
 
-	'/vueComponent': {
+	'/component': {
 		component: function (resolve) {
         	require(['./components/vueContent.vue'], resolve);
       	},
@@ -49,12 +49,12 @@ export const routerMap = {
 			}
 		}
 	},
-	'*': {
-		component: function (resolve) {
-        	require(['./components/welcome.vue'], resolve);
-      	}
-		// component: require('./components/welcome.vue')
-	},
+	// '*': {
+	// 	component: function (resolve) {
+ //        	require(['./components/welcome.vue'], resolve);
+ //      	}
+	// 	// component: require('./components/welcome.vue')
+	// },
 	// '*': {
 	// 	component: require('./components/VueComponents.vue')
 	// }
