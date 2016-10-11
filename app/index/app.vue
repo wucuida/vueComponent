@@ -32,7 +32,7 @@
           {key: '1', title: '首页', iconType: 'cloud', link: '/vueComponent/index.html'},
           {key: '2', title: '实践', iconType: 'aliwangwang-o'},
           {key: '3', title: '模式', iconType: 'star'},
-          {key: '4', title: '组件', iconType: 'appstore', link: '/vueComponent/component'},
+          {key: '4', title: '组件', iconType: 'appstore', link: '/vueComponent'},
           {key: '5', title: '语言', iconType: 'paper-clip'},
           {key: '6', title: '资源', iconType: 'github'},
         ],
