@@ -1,11 +1,11 @@
 export const routerMap = {
-	'/index.html': {
+	'/vueComponent/index.html': {
 		component: function (resolve) {
         	require(['./components/welcome.vue'], resolve);
       	}
 	},
 
-	'/component': {
+	'/vueComponent/component': {
 		component: function (resolve) {
         	require(['./components/vueContent.vue'], resolve);
       	},
