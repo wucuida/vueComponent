@@ -1,7 +1,7 @@
 <template>
 	<p>
 	<img alt="logo" style="width: 35%;margin-left: 34%;" 
-	src="https://t.alipayobjects.com/images/rmsweb/T1B9hfXcdvXXXXXXXX.svg">
+	src="/vueComponent/src/assets/wcd.png">
 	</p>
 </template>
 <script type="text/javascript">

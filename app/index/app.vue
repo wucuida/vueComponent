@@ -5,7 +5,7 @@
       <header class="clearfix" id="header">
         <div class="ant-row">
           <div class="ant-col-xs-24 ant-col-sm-7 ant-col-md-6 ant-col-lg-4 ">
-            <a id="logo" href="/"><img alt="logo" src="https://t.alipayobjects.com/images/rmsweb/T1B9hfXcdvXXXXXXXX.svg"><span>WCD COMPONENTS</span></a>
+            <a id="logo" href="/"><img alt="logo" src="/vueComponent/src/assets/wcd.png"><span>WCD COMPONENTS</span></a>
           </div>
         
           <div class="ant-col-xs-0 ant-col-sm-17 ant-col-md-18 ant-col-lg-11 ant-col-lg-offset-9" style="display:block; padding-top: 17px;">
